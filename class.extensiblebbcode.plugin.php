@@ -1,7 +1,6 @@
 <?php if (!defined('APPLICATION')) exit();
 $PluginInfo['ExtensibleBBCode'] = array(
-    'Description' => 'This is basically a straight copy of Vanilla\'s default BBCode capabilities, found in /library/core/class.format.php, but
-    				in plugin form, so now you can edit to your heart\'s content without having to worry about maintaining a forked core.',
+    'Description' => 'This is basically a straight copy of Vanilla\'s default BBCode capabilities, found in /library/core/class.format.php, but in plugin form, so now you can edit to your heart\'s content without having to worry about maintaining a forked core.',
     'Version' => '1.0.0',
     'RequiredApplications' => array('Vanilla' => '2.1'),
     'RequiredTheme' => FALSE,
